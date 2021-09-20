@@ -533,6 +533,7 @@ orgs:
           - pacospace
           - Shreyanand
           - suppathak
+          - tschwesi
         privacy: closed
         repos:
           meteor: write
