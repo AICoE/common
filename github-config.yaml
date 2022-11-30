@@ -548,10 +548,9 @@ orgs:
       DevOps:
         description: The DevOps Crew
         maintainers:
+          - codificat
           - goern
           - harshad16
-        members:
-          - 4n4nd
         privacy: closed
         repos:
           aicoe-ci: admin
@@ -766,10 +765,10 @@ orgs:
       thoth-station:
         description: "The Thoth-Station people..."
         maintainers:
+          - codificat
           - goern
           - harshad16
         members:
-          - codificat
           - fridex
           - Gkrumbach07
           - KPostOffice
