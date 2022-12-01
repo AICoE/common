@@ -517,7 +517,6 @@ orgs:
           - tumido
           - Shreyanand
           - HumairAK
-          - chauhankaranraj
           - 4n4nd
         privacy: closed
         repos:
@@ -548,10 +547,9 @@ orgs:
       DevOps:
         description: The DevOps Crew
         maintainers:
+          - codificat
           - goern
           - harshad16
-        members:
-          - 4n4nd
         privacy: closed
         repos:
           aicoe-ci: admin
@@ -608,7 +606,6 @@ orgs:
         members:
           - 4n4nd
           - aakankshaduggal
-          - chauhankaranraj
           - codificat
           - fridex
           - harshad16
@@ -766,10 +763,10 @@ orgs:
       thoth-station:
         description: "The Thoth-Station people..."
         maintainers:
+          - codificat
           - goern
           - harshad16
         members:
-          - codificat
           - fridex
           - Gkrumbach07
           - KPostOffice
