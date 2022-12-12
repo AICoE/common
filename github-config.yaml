@@ -612,7 +612,6 @@ orgs:
         privacy: closed
         repos:
           meteor: write
-          meteor-operator: write
           data-driven-development: write
       Seraph:
         descriptio: Seraph community project
@@ -700,7 +699,6 @@ orgs:
           matmul-pipeline-cpu: admin
           matmul-pipeline-gpu: admin
           meteor: admin
-          meteor-operator: admin
           olm-testing-example: admin
           openshift_kubeflow_workshop: admin
           overlays-for-ai-pipeline-tutorial: admin
